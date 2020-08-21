@@ -1,0 +1,19 @@
+Här planerar vi
+
+En karaktärs/monsters fält
+* betyder vi prioriterar det här mkt lågt.
+
+    *level* class BAB
+
+    1 namn
+
+    1 Attributes, including temp values for handling damage to them. This will effect our secondary stats wäh and all things.
+
+    Reflex Will Fortitude
+
+    1 maxHp currentHp AC
+
+    CMD CMB
+
+INput till character builder behöver bli tydligt att det är attributes  som skickas in
+Borde skapa en class som heter attributeArray som ersätter characters HashMap attributes
